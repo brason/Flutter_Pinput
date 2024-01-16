@@ -28,7 +28,7 @@ dependencies:
     sdk: flutter
   smart_auth:
     git:
-      url: https://github.com/mahdinba97/flutter_smart_auth/tree/fix-android-sdk-34.git
+      url: https://github.com/mahdinba97/flutter_smart_auth.git
   universal_platform: ^1.0.0+1
 
 dev_dependencies:
